@@ -1,2 +1,2 @@
 ## About Me
-<p> Hi there! My name is Janeth Manyalla. I a rising junior at Cornell University majoring in Electrical and Computer engineering. </br> Some of my interests include learning about Robotics and AI, reading books, and playing soccer. <p>
+<p> Hello there! My name is Janeth Manyalla. I am an international student at Cornell University from Tanzania. </br> I enjoy learning new things, playing guitar, reading books, and playing soccer. Some of my interests are in the field of Robotics and AI. </p>
